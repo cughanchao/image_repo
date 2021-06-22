@@ -2,10 +2,6 @@
 
 
 
-![](https://cdn.jsdelivr.net/gh/cughanchao/image_repo@main/linux_PNG45_small%20-%20%E5%89%AF%E6%9C%AC2%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC.png)
-
-
-
 ![](https://cdn.jsdelivr.net/gh/cughanchao/image_repo@main/20200912-buck600%20-%20%E5%89%AF%E6%9C%AC.jpg)
 
 
@@ -19,6 +15,10 @@
 
 
 ![image_test](https://cdn.jsdelivr.net/gh/cughanchao/test_repo@test/img/image_test.png)
+
+
+
+
 
 ----
 
