@@ -1,7 +1,5 @@
 
 
-![屏幕截图(7)](https://cdn.jsdelivr.net/gh/cughanchao/image_repo@main/img%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(7).png)
-
 
 
 ![](https://cdn.jsdelivr.net/gh/cughanchao/image_repo@main/linux_PNG45_small%20-%20%E5%89%AF%E6%9C%AC2%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC.png)
@@ -20,15 +18,7 @@
 
 
 
-![屏幕截图(9)](https://cdn.jsdelivr.net/gh/cughanchao/test_repo@main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(9).png)
-
-
-
-
-
-![image-20210622111113037](https://cdn.jsdelivr.net/gh/cughanchao/test_repo@main/image-20210622111113037.png)
-
-
+![image_test](https://cdn.jsdelivr.net/gh/cughanchao/test_repo@test/img/image_test.png)
 
 ----
 
