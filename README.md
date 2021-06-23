@@ -1,2 +1,4 @@
-# image_repo
-test
+# test repo
+
+This repo is just for testing.
+
